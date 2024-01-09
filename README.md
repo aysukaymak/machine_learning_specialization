@@ -158,3 +158,32 @@ Feature engineering is an integral part of the machine learning pipeline, and th
 5. **Model Evaluation**: Assessing the performance of the polynomial regression model.
 
 6. **Feature Scaling Importance**: Understanding why feature scaling is crucial, particularly in the context of feature engineering.
+
+
+# Classification and Logistic Regression Lab
+
+This Jupyter Notebook provides an optional yet insightful exploration into the realms of classification, drawing a comparison with regression. Additionally, it delves into logistic regression, a powerful tool for binary classification tasks. The lab guides you through the exploration of the sigmoid function and its application in logistic regression.
+
+## Overview
+
+Classification is a fundamental concept in machine learning, and this optional lab aims to highlight its distinctions from regression. Additionally, the focus shifts towards logistic regression, a technique employed for binary classification tasks. The key objectives of this lab include:
+
+- **Contrasting Regression and Classification**: Understanding the fundamental differences between regression and classification.
+
+- **Introduction to Logistic Regression**: Exploring the logistic function (sigmoid function) and its role in logistic regression.
+
+- **Sigmoid Function Exploration**: Gaining insights into the properties and applications of the sigmoid function.
+
+- **Logistic Regression Implementation**: Practical implementation of logistic regression for binary classification tasks.
+
+## Contents
+
+1. **Regression vs. Classification**: A brief overview of the distinctions between regression and classification in machine learning.
+
+2. **Logistic Function (Sigmoid)**: Exploration of the sigmoid function, its characteristics, and its significance in logistic regression.
+
+3. **Introduction to Logistic Regression**: Understanding the concept of logistic regression as a classification technique.
+
+4. **Sigmoid Function Exploration**: Hands-on examples illustrating the properties and applications of the sigmoid function.
+
+5. **Logistic Regression Implementation**: Practical implementation of logistic regression using real-world data.
